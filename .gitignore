@@ -1,0 +1,6 @@
+.flasky-sync.json
+.flasky-state.json
+__pycache__/
+*.pyc
+venv/
+.venv/
