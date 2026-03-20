@@ -2,6 +2,8 @@
 
 Bidirectional sync between an [Obsidian](https://obsidian.md) vault and a [flasky-notes](https://github.com/meho/flasky-notes) server.
 
+**Important:** Sync only works with Flasky Notes v1, which is the legacy implementation before E2EE. If you latest version of Flasky Notes, you should not use this tool until further notice.
+
 ## How it works
 
 - Folder names become note categories (`Work/plan.md` -> category "Work")
